@@ -1,0 +1,156 @@
+/* NavBar */
+.navbar {}
+
+.navbar-brand {
+  color: #66BFBF;
+  font-size: 1.5rem !important;
+}
+
+.navbar-brand:hover {
+  color: grey;
+}
+
+.nav-link {
+  font-size: 18px !important;
+}
+
+.navbar-nav a {
+  color: #66BFBF;
+}
+
+.navbar-nav a:hover {}
+
+/* NavBar */
+.btn-outline-light a:hover {
+  color: #BFFFF0;
+}
+
+.row {
+  padding-bottom: 60px;
+}
+
+.col-lg-6 {
+  padding-right: 100px;
+}
+
+#title {
+  text-align: center;
+  background-color: #272829;
+  padding: 3% 15% 0% 15%;
+}
+
+.title-text {
+  font-size: 5.5rem;
+  color: #BFFFF0;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0;
+}
+.title-text1 {
+  font-size: 3.5rem;
+  color: #BFFFF0;
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0;
+}
+
+.protext {
+  font-size: 1.5rem;
+  color: white;
+  margin: 0 0 10 0;
+}
+
+.pro-text {
+  text-decoration: underline;
+  margin: 0;
+}
+
+/* Skill Section */
+#skill-descriptions {
+  text-align: center;
+  background-color: #242424;
+  margin: 0;
+  padding: 3% 15% 0% 15%;
+}
+
+h2 {
+  color: #BFFFF0;
+  font-family: 'Merriweather', sans-serif;
+  font-weight: bold;
+  padding-top: 0px;
+  letter-spacing: 2px;
+  padding-bottom: 30px;
+}
+
+.skill-hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 7px;
+  width: 5%;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+.col-lg-6{
+  padding-bottom: 20px;
+}
+
+
+.skill-webDesign {
+  font-family: 'Merriweather', serif;
+  color: #66BFBF;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  ;
+  text-align: left;
+}
+
+.skill-webDev {
+  font-family: 'Merriweather', serif;
+  color: #66BFBF;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  ;
+  text-align: right;
+}
+
+.skill-image {
+  width: 15%;
+  margin-right: 20px;
+  float: left;
+}
+
+.skill-image1 {
+  width: 15%;
+  margin-left: 20px;
+  float: right;
+}
+
+.skill-text {
+  margin: 0 auto;
+  width: 100%;
+  text-align: justify;
+  font-family: 'Merriweather', serif;
+  line-height: 1.7;
+  font-size: 18px;
+  color: white;
+}
+
+.skill-text1 {
+  margin: 0 auto;
+  width: 100%;
+  text-align: justify;
+  font-family: 'Merriweather', serif;
+  line-height: 1.7;
+  font-size: 18px;
+  color: white;
+}
+.about-me{
+  margin: 0 auto;
+  width: 100%;
+  text-align: justify;
+  font-family: 'Merriweather', cursive;
+  line-height: 2;
+  font-size: 18px;
+  color: white;
+  letter-spacing: 2px;
+  padding-bottom: 20px;
+}
